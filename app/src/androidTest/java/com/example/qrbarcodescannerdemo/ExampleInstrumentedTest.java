@@ -1,5 +1,6 @@
 package com.example.qrbarcodescannerdemo;
 
+import java.txt
 import android.content.Context;
 
 import androidx.test.platform.app.InstrumentationRegistry;
